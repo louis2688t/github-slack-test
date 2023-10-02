@@ -9,6 +9,9 @@ function App() {
         <p>
           Git Slack Integration
         </p>
+        <p>
+          Git Slack Notification
+        </p>
       </header>
     </div>
   );
