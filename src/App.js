@@ -12,6 +12,9 @@ function App() {
         <p>
           Git Slack Notification
         </p>
+        <p>
+          Git Slack test('should first', () => { second })
+        </p>
       </header>
     </div>
   );
